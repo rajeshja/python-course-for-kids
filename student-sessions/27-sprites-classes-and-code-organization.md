@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 26: Debugging Like a Pro](./26-debugging-like-a-pro.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 28: Project Workshop: Port or Create →](./28-project-workshop-port-or-create.md)
+<!-- SESSION NAV END -->
+
 # Session 27: Sprites, Classes, and Code Organization
 
 **Part of:** Module 5 — Level Up with Plain Pygame in VS Code (Optional Extension)
@@ -241,3 +245,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/27-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 26: Debugging Like a Pro](./26-debugging-like-a-pro.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 28: Project Workshop: Port or Create →](./28-project-workshop-port-or-create.md)
+<!-- SESSION NAV END -->

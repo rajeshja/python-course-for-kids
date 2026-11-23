@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 17: Images, Sound, and Polish](./17-images-sound-and-polish.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 19: Plan Your Game →](./19-plan-your-game.md)
+<!-- SESSION NAV END -->
+
 # Session 18: Classes and Objects
 
 **Part of:** Module 4 — Structure and Final Project
@@ -216,3 +220,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/18-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 17: Images, Sound, and Polish](./17-images-sound-and-polish.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 19: Plan Your Game →](./19-plan-your-game.md)
+<!-- SESSION NAV END -->

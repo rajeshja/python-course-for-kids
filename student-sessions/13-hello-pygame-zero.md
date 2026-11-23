@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 12: Events and Input with Turtle](./12-events-and-input-with-turtle.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 14: Animation with update() and Actors →](./14-animation-with-update-and-actors.md)
+<!-- SESSION NAV END -->
+
 # Session 13: Hello Pygame Zero
 
 **Part of:** Module 3 — Making It Interactive
@@ -198,3 +202,7 @@ Pygame Zero normally uses `(0, 0)` at the **top-left**. x increases to the right
 ---
 
 [Check your answers and hints](../answers/13-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 12: Events and Input with Turtle](./12-events-and-input-with-turtle.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 14: Animation with update() and Actors →](./14-animation-with-update-and-actors.md)
+<!-- SESSION NAV END -->

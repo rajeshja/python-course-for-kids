@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 9: Conditionals: Making Decisions](./09-conditionals-making-decisions.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 11: Turtle Project and Checkpoint →](./11-turtle-project-and-checkpoint.md)
+<!-- SESSION NAV END -->
+
 # Session 10: Fractals and Recursion
 
 **Part of:** Module 2 — Building Blocks
@@ -276,3 +280,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/10-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 9: Conditionals: Making Decisions](./09-conditionals-making-decisions.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 11: Turtle Project and Checkpoint →](./11-turtle-project-and-checkpoint.md)
+<!-- SESSION NAV END -->

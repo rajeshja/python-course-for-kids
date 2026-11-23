@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 4: Variables: Giving Things Names](./04-variables-giving-things-names.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 6: Functions: Your Own Commands →](./06-functions-your-own-commands.md)
+<!-- SESSION NAV END -->
+
 # Session 5: Patterns, Spirals, and Angles
 
 **Part of:** Module 1 — Turtle Basics
@@ -180,3 +184,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/05-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 4: Variables: Giving Things Names](./04-variables-giving-things-names.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 6: Functions: Your Own Commands →](./06-functions-your-own-commands.md)
+<!-- SESSION NAV END -->

@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 25: Images, Text, Sound, and Collisions](./25-images-text-sound-and-collisions.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 27: Sprites, Classes, and Code Organization →](./27-sprites-classes-and-code-organization.md)
+<!-- SESSION NAV END -->
+
 # Session 26: Debugging Like a Pro
 
 **Part of:** Module 5 — Level Up with Plain Pygame in VS Code (Optional Extension)
@@ -218,3 +222,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/26-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 25: Images, Text, Sound, and Collisions](./25-images-text-sound-and-collisions.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 27: Sprites, Classes, and Code Organization →](./27-sprites-classes-and-code-organization.md)
+<!-- SESSION NAV END -->

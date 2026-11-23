@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 13: Hello Pygame Zero](./13-hello-pygame-zero.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 15: Keyboard and Mouse Control →](./15-keyboard-and-mouse-control.md)
+<!-- SESSION NAV END -->
+
 # Session 14: Animation with update() and Actors
 
 **Part of:** Module 3 — Making It Interactive
@@ -219,3 +223,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/14-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 13: Hello Pygame Zero](./13-hello-pygame-zero.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 15: Keyboard and Mouse Control →](./15-keyboard-and-mouse-control.md)
+<!-- SESSION NAV END -->

@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 24: Movement, Timing, and Input](./24-movement-timing-and-input.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 26: Debugging Like a Pro →](./26-debugging-like-a-pro.md)
+<!-- SESSION NAV END -->
+
 # Session 25: Images, Text, Sound, and Collisions
 
 **Part of:** Module 5 — Level Up with Plain Pygame in VS Code (Optional Extension)
@@ -264,3 +268,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/25-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 24: Movement, Timing, and Input](./24-movement-timing-and-input.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 26: Debugging Like a Pro →](./26-debugging-like-a-pro.md)
+<!-- SESSION NAV END -->

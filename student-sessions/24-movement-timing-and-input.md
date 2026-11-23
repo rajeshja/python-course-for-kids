@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 23: Hello Pygame: Write the Game Loop](./23-hello-pygame-write-the-game-loop.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 25: Images, Text, Sound, and Collisions →](./25-images-text-sound-and-collisions.md)
+<!-- SESSION NAV END -->
+
 # Session 24: Movement, Timing, and Input
 
 **Part of:** Module 5 — Level Up with Plain Pygame in VS Code (Optional Extension)
@@ -254,3 +258,7 @@ A `pygame.Rect` stores a rectangle's position and size. Its properties such as `
 ---
 
 [Check your answers and hints](../answers/24-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 23: Hello Pygame: Write the Game Loop](./23-hello-pygame-write-the-game-loop.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 25: Images, Text, Sound, and Collisions →](./25-images-text-sound-and-collisions.md)
+<!-- SESSION NAV END -->

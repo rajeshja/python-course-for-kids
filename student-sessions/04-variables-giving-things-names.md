@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 3: Loops: Let the Computer Repeat](./03-loops-let-the-computer-repeat.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 5: Patterns, Spirals, and Angles →](./05-patterns-spirals-and-angles.md)
+<!-- SESSION NAV END -->
+
 # Session 4: Variables: Giving Things Names
 
 **Part of:** Module 1 — Turtle Basics
@@ -192,3 +196,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/04-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 3: Loops: Let the Computer Repeat](./03-loops-let-the-computer-repeat.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 5: Patterns, Spirals, and Angles →](./05-patterns-spirals-and-angles.md)
+<!-- SESSION NAV END -->

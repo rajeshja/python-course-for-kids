@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 18: Classes and Objects](./18-classes-and-objects.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 20: Build and Debug Workshop →](./20-build-and-debug-workshop.md)
+<!-- SESSION NAV END -->
+
 # Session 19: Plan Your Game
 
 **Part of:** Module 4 — Structure and Final Project
@@ -195,3 +199,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/19-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 18: Classes and Objects](./18-classes-and-objects.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 20: Build and Debug Workshop →](./20-build-and-debug-workshop.md)
+<!-- SESSION NAV END -->

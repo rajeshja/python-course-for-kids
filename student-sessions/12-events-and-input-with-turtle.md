@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 11: Turtle Project and Checkpoint](./11-turtle-project-and-checkpoint.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 13: Hello Pygame Zero →](./13-hello-pygame-zero.md)
+<!-- SESSION NAV END -->
+
 # Session 12: Events and Input with Turtle
 
 **Part of:** Module 3 — Making It Interactive
@@ -218,3 +222,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/12-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 11: Turtle Project and Checkpoint](./11-turtle-project-and-checkpoint.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 13: Hello Pygame Zero →](./13-hello-pygame-zero.md)
+<!-- SESSION NAV END -->

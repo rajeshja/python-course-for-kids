@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 7: Parameters and Return Values](./07-parameters-and-return-values.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 9: Conditionals: Making Decisions →](./09-conditionals-making-decisions.md)
+<!-- SESSION NAV END -->
+
 # Session 8: Randomness and Lists
 
 **Part of:** Module 2 — Building Blocks
@@ -196,3 +200,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/08-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 7: Parameters and Return Values](./07-parameters-and-return-values.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 9: Conditionals: Making Decisions →](./09-conditionals-making-decisions.md)
+<!-- SESSION NAV END -->

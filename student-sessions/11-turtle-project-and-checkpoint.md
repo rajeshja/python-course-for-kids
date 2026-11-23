@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 10: Fractals and Recursion](./10-fractals-and-recursion.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 12: Events and Input with Turtle →](./12-events-and-input-with-turtle.md)
+<!-- SESSION NAV END -->
+
 # Session 11: Turtle Project and Checkpoint
 
 **Part of:** Module 2 — Building Blocks
@@ -202,3 +206,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/11-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 10: Fractals and Recursion](./10-fractals-and-recursion.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 12: Events and Input with Turtle →](./12-events-and-input-with-turtle.md)
+<!-- SESSION NAV END -->

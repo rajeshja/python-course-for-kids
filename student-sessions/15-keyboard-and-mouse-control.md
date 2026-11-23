@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 14: Animation with update() and Actors](./14-animation-with-update-and-actors.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 16: Collisions, Score, and Text →](./16-collisions-score-and-text.md)
+<!-- SESSION NAV END -->
+
 # Session 15: Keyboard and Mouse Control
 
 **Part of:** Module 3 — Making It Interactive
@@ -216,3 +220,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/15-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 14: Animation with update() and Actors](./14-animation-with-update-and-actors.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 16: Collisions, Score, and Text →](./16-collisions-score-and-text.md)
+<!-- SESSION NAV END -->

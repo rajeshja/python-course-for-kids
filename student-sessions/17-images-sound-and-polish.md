@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 16: Collisions, Score, and Text](./16-collisions-score-and-text.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 18: Classes and Objects →](./18-classes-and-objects.md)
+<!-- SESSION NAV END -->
+
 # Session 17: Images, Sound, and Polish
 
 **Part of:** Module 3 — Making It Interactive
@@ -213,3 +217,7 @@ Keeping assets in the expected folders prevents many file-not-found problems. Al
 ---
 
 [Check your answers and hints](../answers/17-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 16: Collisions, Score, and Text](./16-collisions-score-and-text.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 18: Classes and Objects →](./18-classes-and-objects.md)
+<!-- SESSION NAV END -->

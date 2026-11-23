@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 21: Showcase and Celebration](./21-showcase-and-celebration.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 23: Hello Pygame: Write the Game Loop →](./23-hello-pygame-write-the-game-loop.md)
+<!-- SESSION NAV END -->
+
 # Session 22: VS Code and Project Setup
 
 **Part of:** Module 5 — Level Up with Plain Pygame in VS Code (Optional Extension)
@@ -245,3 +249,7 @@ Installing `pygame` makes that package available to the Python environment. If V
 ---
 
 [Check your answers and hints](../answers/22-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 21: Showcase and Celebration](./21-showcase-and-celebration.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 23: Hello Pygame: Write the Game Loop →](./23-hello-pygame-write-the-game-loop.md)
+<!-- SESSION NAV END -->

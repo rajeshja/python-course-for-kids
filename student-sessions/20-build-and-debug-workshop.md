@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 19: Plan Your Game](./19-plan-your-game.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 21: Showcase and Celebration →](./21-showcase-and-celebration.md)
+<!-- SESSION NAV END -->
+
 # Session 20: Build and Debug Workshop
 
 **Part of:** Module 4 — Structure and Final Project
@@ -163,3 +167,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/20-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 19: Plan Your Game](./19-plan-your-game.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 21: Showcase and Celebration →](./21-showcase-and-celebration.md)
+<!-- SESSION NAV END -->

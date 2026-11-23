@@ -4,6 +4,22 @@ Welcome! These 29 lessons teach Python by letting you **draw, experiment, make g
 
 This version is designed so that an 11-year-old who has never programmed before can work with **minimal adult help**.
 
+## Before you start
+
+Install **Mu (Mu Editor)**, the beginner-friendly Python editor used to write and run the early Python programs in this course.
+
+**Install Mu:** [Download and install Mu](https://codewith.mu/)
+
+Choose the installer for your computer and complete the installation before starting Session 1.
+
+> **Note:** The course later introduces VS Code for plain pygame projects. You will be told when you need to install and use it.
+
+## Start here
+
+**New to programming?** Start with [Session 1: Meet the Turtle](student-sessions/01-meet-the-turtle.md).
+
+**Already understand the basics of Python programming?** You can skip the Turtle lessons and start the Pygame Zero part of the course with [Session 13: Hello Pygame Zero](student-sessions/13-hello-pygame-zero.md).
+
 ## How to work through a lesson by yourself
 
 Use this routine every time:

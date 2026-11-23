@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 6: Functions: Your Own Commands](./06-functions-your-own-commands.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 8: Randomness and Lists →](./08-randomness-and-lists.md)
+<!-- SESSION NAV END -->
+
 # Session 7: Parameters and Return Values
 
 **Part of:** Module 2 — Building Blocks
@@ -234,3 +238,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/07-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 6: Functions: Your Own Commands](./06-functions-your-own-commands.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 8: Randomness and Lists →](./08-randomness-and-lists.md)
+<!-- SESSION NAV END -->

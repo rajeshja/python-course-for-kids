@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 20: Build and Debug Workshop](./20-build-and-debug-workshop.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 22: VS Code and Project Setup →](./22-vs-code-and-project-setup.md)
+<!-- SESSION NAV END -->
+
 # Session 21: Showcase and Celebration
 
 **Part of:** Module 4 — Structure and Final Project
@@ -156,3 +160,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/21-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 20: Build and Debug Workshop](./20-build-and-debug-workshop.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 22: VS Code and Project Setup →](./22-vs-code-and-project-setup.md)
+<!-- SESSION NAV END -->

@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 27: Sprites, Classes, and Code Organization](./27-sprites-classes-and-code-organization.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 29: Pygame Showcase and Next Steps →](./29-pygame-showcase-and-next-steps.md)
+<!-- SESSION NAV END -->
+
 # Session 28: Project Workshop: Port or Create
 
 **Part of:** Module 5 — Level Up with Plain Pygame in VS Code (Optional Extension)
@@ -248,3 +252,7 @@ Build a **prototype** first: a small working version proving that the main idea 
 ---
 
 [Check your answers and hints](../answers/28-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 27: Sprites, Classes, and Code Organization](./27-sprites-classes-and-code-organization.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 29: Pygame Showcase and Next Steps →](./29-pygame-showcase-and-next-steps.md)
+<!-- SESSION NAV END -->

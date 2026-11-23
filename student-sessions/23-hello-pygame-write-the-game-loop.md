@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 22: VS Code and Project Setup](./22-vs-code-and-project-setup.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 24: Movement, Timing, and Input →](./24-movement-timing-and-input.md)
+<!-- SESSION NAV END -->
+
 # Session 23: Hello Pygame: Write the Game Loop
 
 **Part of:** Module 5 — Level Up with Plain Pygame in VS Code (Optional Extension)
@@ -254,3 +258,7 @@ Pygame Zero hid much of this machinery. Plain pygame exposes it, giving you more
 ---
 
 [Check your answers and hints](../answers/23-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 22: VS Code and Project Setup](./22-vs-code-and-project-setup.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 24: Movement, Timing, and Input →](./24-movement-timing-and-input.md)
+<!-- SESSION NAV END -->

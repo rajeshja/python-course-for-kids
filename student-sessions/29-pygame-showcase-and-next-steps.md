@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 28: Project Workshop: Port or Create](./28-project-workshop-port-or-create.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Course Home →](../README.md)
+<!-- SESSION NAV END -->
+
 # Session 29: Pygame Showcase and Next Steps
 
 **Part of:** Module 5 — Level Up with Plain Pygame in VS Code (Optional Extension)
@@ -174,3 +178,7 @@ The underlying programming ideas are the same: events, state, movement, drawing,
 ---
 
 [Check your answers and hints](../answers/29-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 28: Project Workshop: Port or Create](./28-project-workshop-port-or-create.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Course Home →](../README.md)
+<!-- SESSION NAV END -->

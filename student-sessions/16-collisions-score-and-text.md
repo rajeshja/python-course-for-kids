@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 15: Keyboard and Mouse Control](./15-keyboard-and-mouse-control.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 17: Images, Sound, and Polish →](./17-images-sound-and-polish.md)
+<!-- SESSION NAV END -->
+
 # Session 16: Collisions, Score, and Text
 
 **Part of:** Module 3 — Making It Interactive
@@ -306,3 +310,7 @@ The important pattern is: **detect something → make a decision → change the 
 ---
 
 [Check your answers and hints](../answers/16-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 15: Keyboard and Mouse Control](./15-keyboard-and-mouse-control.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 17: Images, Sound, and Polish →](./17-images-sound-and-polish.md)
+<!-- SESSION NAV END -->

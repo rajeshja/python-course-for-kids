@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 5: Patterns, Spirals, and Angles](./05-patterns-spirals-and-angles.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 7: Parameters and Return Values →](./07-parameters-and-return-values.md)
+<!-- SESSION NAV END -->
+
 # Session 6: Functions: Your Own Commands
 
 **Part of:** Module 2 — Building Blocks
@@ -166,3 +170,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/06-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 5: Patterns, Spirals, and Angles](./05-patterns-spirals-and-angles.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 7: Parameters and Return Values →](./07-parameters-and-return-values.md)
+<!-- SESSION NAV END -->

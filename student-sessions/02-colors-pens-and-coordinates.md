@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Session 1: Meet the Turtle](./01-meet-the-turtle.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 3: Loops: Let the Computer Repeat →](./03-loops-let-the-computer-repeat.md)
+<!-- SESSION NAV END -->
+
 # Session 2: Colors, Pens, and Coordinates
 
 **Part of:** Module 1 — Turtle Basics
@@ -212,3 +216,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/02-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Session 1: Meet the Turtle](./01-meet-the-turtle.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 3: Loops: Let the Computer Repeat →](./03-loops-let-the-computer-repeat.md)
+<!-- SESSION NAV END -->

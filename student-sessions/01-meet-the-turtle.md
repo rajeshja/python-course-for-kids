@@ -1,3 +1,7 @@
+<!-- SESSION NAV START -->
+[← Previous: Course Home](../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 2: Colors, Pens, and Coordinates →](./02-colors-pens-and-coordinates.md)
+<!-- SESSION NAV END -->
+
 # Session 1: Meet the Turtle
 
 **Part of:** Module 1 — Turtle Basics
@@ -245,3 +249,7 @@ Before you finish, make sure your program runs and that you can explain the main
 ---
 
 [Check your answers and hints](../answers/01-answers.md)
+
+<!-- SESSION NAV START -->
+[← Previous: Course Home](../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Next: Session 2: Colors, Pens, and Coordinates →](./02-colors-pens-and-coordinates.md)
+<!-- SESSION NAV END -->
