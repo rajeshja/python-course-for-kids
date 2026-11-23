@@ -20,25 +20,13 @@ This is a new tool, so do the setup once before continuing with Sessions 13–21
 
 Inside it, create a file called `lesson13.py`.
 
-Install Pygame Zero in the Python environment you will use for the course. In a terminal, run:
+**Choose Pygame Zero mode in Mu:** Open Mu, use the mode selector at the top of the window, and choose **Pygame Zero**. Mu provides the Pygame Zero environment for this part of the course.
 
-```text
-pip install pgzero
-```
+**Run the file:** Make sure `lesson13.py` is open in Mu, select **Pygame Zero** mode, and click **Play**.
 
-If `pip` is not recognized, do not guess. Go to **Session 22 → Common setup problems** for the Python/terminal recovery steps, then return here.
+For Sessions 14–21, keep using this same project folder and the same **Pygame Zero** mode in Mu. Create a new file for each lesson using the filename shown in that lesson.
 
-**Run the file:** in the same terminal, from the folder containing the file, run:
-
-```text
-pgzrun lesson13.py
-```
-
-If your computer is configured so that the Pygame Zero run button works, you may use that instead.
-
-For Sessions 14–21, keep using this same project folder. Create a new file for each lesson using the filename shown in that lesson.
-
-**Expected result:** a game window opens. If it does not, fix the setup before changing the lesson code.
+**Expected result:** a game window opens. If it does not, check that Mu is in **Pygame Zero** mode and that you clicked **Play**.
 
 **Paper first:** sketch the game window and where you expect each object to appear.
 
@@ -68,9 +56,7 @@ def draw():
 
 Run it with:
 
-```text
-pgzrun lesson13.py
-```
+**Run it:** In Mu, select **Pygame Zero** mode and click **Play**.
 
 **You should see:** a navy window with a yellow circle in the middle.
 
@@ -175,7 +161,7 @@ Find the problem. Move the drawing command to the correct place and run the prog
 
 **Try this lesson-specific recovery first:**
 
-If `pgzrun` is not recognized, return to the Pygame Zero setup in this lesson. If an `Actor` or image is missing, check the exact filename and the `images` folder.
+If the program does not run, check that Mu is in **Pygame Zero** mode and that you clicked **Play**. If an `Actor` or image is missing, check the exact filename and the `images` folder.
 
 Then use the general routine:
 

@@ -17,7 +17,7 @@ Try the challenge yourself before reading these.
 
 ### Hint 1
 
-If `pgzrun` is not recognized, return to the setup steps.
+If the program does not run, make sure the mode is Pygame Zero.
 
 ### Hint 2
 

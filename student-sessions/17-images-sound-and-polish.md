@@ -20,11 +20,7 @@ Make a quick screen sketch showing where your images, text, and other visual ele
 
 **Create this file:** `lesson17.py`.
 
-**Run it:** from the project folder, run:
-
-```text
-pgzrun lesson17.py
-```
+**Run it:** In Mu, select **Pygame Zero** mode and click **Play**.
 
 Do not start by inventing a new project. Copy the complete starter program in this lesson first and make sure it runs.
 
